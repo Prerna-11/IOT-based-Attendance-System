@@ -1,1 +1,3 @@
 # IOT-based-Attendance-System
+In this project, we designed a smart attendance system using a barcode scanner and a Raspberry Pi mini-computer. The system works like this: when someone scans their ID card with the barcode scanner, the system quickly checks if the barcode number matches the stored records. If it's a match, the system marks that person as 'present' for the day.
+We chose the Raspberry Pi because it's a small but powerful computer that can process information really fast. The barcode scanner helps us read the special barcodes on ID cards. This setup makes attendance-taking super easy and accurate.
